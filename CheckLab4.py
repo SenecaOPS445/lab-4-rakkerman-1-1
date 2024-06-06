@@ -670,5 +670,3 @@ if __name__ == '__main__':
     if len(sys.argv) == 3:
         report_header = displayReportHeader()
     unittest.main()
-
-
